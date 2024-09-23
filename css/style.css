@@ -1,0 +1,16 @@
+body{
+    background-color: #e8ecee;
+}
+
+
+.box{
+    margin-top: 20px;
+    
+}
+.box h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #130f40;
+    color: white;
+    padding: 10px;
+}
