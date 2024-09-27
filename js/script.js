@@ -25,7 +25,7 @@ const load = () => {
                                 <td>${task.date}</td>
                                 <td>
                                     <button class='btn btn-success' onclick="editform('${index}')">Editer</button>
-                                    <button class='btn btn-danger' onclick="deletedata('${index}')">Supprimer</button>
+                                    <button class='btn btn-danger' onclick="deletedata('${index}')" style="margin: 10px;">Supprimer</button>
                                 </td>
                             </tr>`);
                     });
